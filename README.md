@@ -9,22 +9,22 @@ Stock: AAPL (Apple Inc.)
 Period: 2018-01-01 to 2024-01-01
 Total: 1,509 trading days
 
-Features Used:
+Features Used:   
 Open, High, Low, Close, Volume
 Moving Averages (MA5, MA20)
 EMA, MACD, RSI, Bollinger Bands
 
-Model:
+Model:   
 2-layer LSTM network
 Hidden size: 128
 Dropout: 0.2
 Optimizer: Adam
 Loss: MSE
 
-Results:
+Results:   
 MetricValueMAE3.37RMSE4.03MSE16.27MAPE1.91%
 
-How to Run:
+How to Run:   
 bashpip install -r requirements.txt
 python main.py --ticker AAPL --start 2018-01-01 --end 2024-01-01
 
