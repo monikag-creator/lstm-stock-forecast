@@ -29,8 +29,8 @@ bashpip install -r requirements.txt
 python main.py --ticker AAPL --start 2018-01-01 --end 2024-01-01
 
 Output:
-All results are saved in the results/ folder:
-predictions.png — Actual vs Predicted prices
-training_loss.png — Training curve
+All results are saved in the results/ folder:   
+predictions.png — Actual vs Predicted prices   
+training_loss.png — Training curve   
 full_overview.png — Complete analysis
 metrics.json — Performance metrics
