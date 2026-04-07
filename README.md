@@ -1,7 +1,7 @@
 # lstm-stock-forecast
 LSTM Stock Price Forecasting using PyTorch
 
-LSTM Stock Price Forecasting
+LSTM Stock Price Forecasting:
 A deep learning project that predicts stock prices using an LSTM neural network built with PyTorch.
 Dataset
 Source: Yahoo Finance (via yfinance library)   
