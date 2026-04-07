@@ -25,7 +25,7 @@ Results:
 MetricValueMAE3.37RMSE4.03MSE16.27MAPE1.91%
 
 How to Run:   
-bashpip install -r requirements.txt
+bashpip install -r requirements.txt    
 python main.py --ticker AAPL --start 2018-01-01 --end 2024-01-01
 
 Output:
