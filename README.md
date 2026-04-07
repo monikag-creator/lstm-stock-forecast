@@ -2,7 +2,7 @@
 LSTM Stock Price Forecasting using PyTorch
 
 LSTM Stock Price Forecasting:
-A deep learning project that predicts stock prices using an LSTM neural network built with PyTorch.
+A deep learning project that predicts stock prices using an LSTM neural network built with PyTorch.   
 Dataset
 Source: Yahoo Finance (via yfinance library)   
 Stock: AAPL (Apple Inc.)   
